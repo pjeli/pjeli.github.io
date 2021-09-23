@@ -9,6 +9,7 @@ Projects:
 
 Patents:
 1. [Geographically-distributed file system using coordinated namespace replication](https://patentimages.storage.googleapis.com/2f/a7/f9/e51a8b6ae60f82/WO2015153045A1.pdf)
+2. [System and method for scouting distributed file system metadata](https://patentimages.storage.googleapis.com/03/b4/31/204c0f55c97971/US11036680.pdf)
 
 Blogs:
 1. [NameNode Analytics](https://medium.com/paypal-engineering/namenode-analytics-paypals-big-data-guardian-6bcb1a630862)
